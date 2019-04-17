@@ -9,7 +9,7 @@ public class TTTT {
     public static void main(String[] args) {
      String str1="hello";
      String str2=new String("hello");
-     String str3="hello";
+     String str3="hellojjjddfjk";
         System.out.println(str1==str2);
         System.out.println(str1==str3);
     }
