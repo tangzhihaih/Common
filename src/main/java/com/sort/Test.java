@@ -23,6 +23,7 @@ public class Test{
         String s=new String("java.jdk.c++.c");
         boolean is_exists=s.contains("c");
         System.out.println("++++++++++++"+is_exists);
+        System.out.println("+++++++++++++"+"hello");
     }
 }
 
